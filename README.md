@@ -1,5 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
+https://jdwalsh138.github.io/05-Third-Party-APIs/
+
 ## Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
@@ -31,10 +33,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
-The following animation demonstrates the application functionality:
-
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 
 ## Third-Party API resources
